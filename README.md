@@ -177,7 +177,7 @@ Started Instances: ['i-789012']
 
 ## Lambda Test Event
 
-![Lambda Test Event](screenshots/lamda-test.png)
+![Lambda Test Event](screenshots/lambda-test.png)
 
 ## EC2 Instance State Change
 
